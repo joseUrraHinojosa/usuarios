@@ -15,6 +15,7 @@ $(document).ready(function () {
         }else{
 
             //ajax 
+            //index
             $.ajax({
                 type: 'POST',
                 url: 'validalogin.php',
